@@ -51,3 +51,8 @@ h1 {
     height: auto;
     border-radius: 4px;
 }
+
+p {
+    font-size: 14px;
+    margin: 0;
+}
